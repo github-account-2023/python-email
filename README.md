@@ -1,5 +1,5 @@
 # python-email
 
 ```python
-from email import mail
+from email import send_mail
 ```
